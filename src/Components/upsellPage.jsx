@@ -497,8 +497,8 @@ function ClarifionUpsell() {
         Copyright (c) 2023
       </div>
       <div className="bg-white w-px shrink-0 h-6" />
-      <div className="text-white text-base self-center leading-6 lowercase whitespace-nowrap max-md:text-sm">
-        Clarifionsupport@clarifion.com
+      <div className="text-white text-base self-center leading-6 upercase whitespace-nowrap max-md:text-sm">
+        Made by Krisbel Rosas
       </div>
     </div>
     <div className="items-stretch self-center flex gap-4 my-auto">
